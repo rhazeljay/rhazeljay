@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rhazeljay
+- 👋 Hi, I’m Rhazel Jay
 - 👀 I’m interested in cybersecurity.
 - 🌱 I’m currently learning a lot about different programming languages.
 - 💞️ I’m looking to collaborate on anyone who can help me in my journey in programming.
